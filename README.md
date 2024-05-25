@@ -9,3 +9,19 @@ Upon completing the course, you will be able to:
 Use object interactions to achieve complex functionality through a simple command sequence
 Explain how to model a familiar real world entity as a class with data and functions
 Decide when it is appropriate to use static or non-static functions
+
+<h2>Steps used to configure github </h2>
+
+1	Created a project in local folder						
+2	Made a repository in git with same name of project folder						
+3	Navigate to your project folder and initialize a Git repository:					#	git init </code>
+4	now configure this user for this repository:						# git config user.email "user mail address"
+5	Add the remote repository: 						# git remote add origin <repository_URL>
+6	Rename the default branch from 'master' to 'main':						# git branch -m master main
+7	Create a new branch named 'main' and switch to it:						# git checkout -b main
+8	Pull changes from the remote repository to the 'main' branch:						# git pull origin main
+9	Stage all changes:						# git add .
+10	Commit changes:						# git commit -m "Initial commit"
+11	Push changes to the 'main' branch:						# git push -u origin main
+							
+![image](https://github.com/nishan1281/CryptoTradingPlatform/assets/19954335/2dfbe936-7351-4425-a191-a6e49ae6ff1d)
