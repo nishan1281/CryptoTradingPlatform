@@ -1,0 +1,3 @@
+C:/Users/nisha/Documents/SoftwareDevelopment/CryptoTradingPlatform/cmake-build-debug/CMakeFiles/CryptoTradingPlatform.dir
+C:/Users/nisha/Documents/SoftwareDevelopment/CryptoTradingPlatform/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nisha/Documents/SoftwareDevelopment/CryptoTradingPlatform/cmake-build-debug/CMakeFiles/rebuild_cache.dir
